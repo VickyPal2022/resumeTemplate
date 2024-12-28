@@ -1,0 +1,91 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 2%; margin-right: 2%;
+}
+body{
+    border: 2px solid black ;
+    background-color: rgba(150, 94, 16, 0);
+    margin: auto;
+}
+.contactDetail{
+    display: flex;
+    align-items: center;
+    justify-items: center;
+}
+
+#contactDetail{
+    text-align: center;
+    width: 50%;
+}
+
+#linkedinBanner{
+    align-items: end;
+}
+
+.objectives{
+    height: 25px;
+    background-color: rgb(204, 201, 201);
+    text-decoration: underline;
+}
+.objContainer{
+    text-align: left;
+}
+.skills{
+    height: 25px;
+    background-color: rgb(204, 201, 201);
+    text-decoration: underline;
+}
+.skillc{
+    display: flex;
+}
+.skill{
+    min-height: 40%; width: 50%;
+}
+#tech{
+    border-right: 2px solid rgb(194, 187, 187) ;
+}
+.educationDetails{
+    height: 25px;
+    background-color: rgb(204, 201, 201);
+    text-decoration: underline;
+}
+.educationContainer{
+    margin: 3%;
+}
+.Acheivements{
+    height: 25px;
+    background-color: rgb(204, 201, 201);
+    text-decoration: underline;
+}
+.interestHeading{
+    display: flex;
+    gap:10%;
+}
+.activities{
+    height: 25px; min-width: 45%;
+    background-color: rgb(204, 201, 201);
+    margin: 0;
+    align-items: start;
+}
+
+.interest{
+    display: flex;    
+}
+.interestArea{
+    min-height: 40%; min-width: 50%; 
+    margin: 0;
+    align-items: start;
+}
+#activitesContainer{
+    border-right: 2px solid rgb(194, 187, 187) ;
+}
+.experience{
+    height: 25px;
+    background-color: rgb(204, 201, 201);
+    text-decoration: underline;
+}
+.persionalDetails{
+    height: 25px;
+    background-color: rgb(204, 201, 201);
+    text-decoration: underline;
+}
